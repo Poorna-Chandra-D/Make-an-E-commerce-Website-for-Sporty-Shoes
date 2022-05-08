@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\TekSystems Project\Make-an-E-commerce-Website-for-Sporty-Shoes_phase_3_project-main\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2045983867.index
+\sporty_shoes\src\main\java

@@ -1,0 +1,10 @@
+org\sporty_shoes\model\User.class
+org\sporty_shoes\controller\MyController.class
+org\sporty_shoes\repository\PurchaseReportRepository.class
+org\sporty_shoes\model\Admin.class
+org\sporty_shoes\repository\AdminRepository.class
+org\sporty_shoes\model\PurchaseReport.class
+org\sporty_shoes\repository\ProductRepository.class
+org\sporty_shoes\model\Product.class
+org\sporty_shoes\repository\Repository.class
+org\sporty_shoes\repository\UserRepository.class
