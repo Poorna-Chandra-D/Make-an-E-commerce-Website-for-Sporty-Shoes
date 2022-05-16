@@ -4,6 +4,8 @@ This Project is Developed by Poorna Chandra D. This project is hosted on the git
 
 PROJECT DESCRIPTION
 This application is designed and developed as an e-commerce portal sportyshoes.com for a walk-in store. This system allows Administrator to create(add), read(list), update and delete the customers of the application as well as the products of the application. This project helps the administrator to manage the products and the customers well. The customer can login into the system as well as view the products added in the portal by the authorized admin. 
+
+
 TECH STACK
 
 	Core Java Concepts - Object Oriented Programming (OOPS) Concepts such as Classes and Objects. 
